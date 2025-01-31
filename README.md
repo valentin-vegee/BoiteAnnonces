@@ -29,7 +29,6 @@ Ce projet contient **l'API Backend** avec **Node.js, Express et MongoDB**, inté
 - ⚡ **Limitation des requêtes pour éviter le spam**
 - 🔄 **Gestion des sessions & Cache**
 
-
 ---
 
 ## 🛠️ **Installation & Configuration**
@@ -126,4 +125,4 @@ DELETE	/api/annonces/:id	Supprimer une annonce	✅
 📜 Licence
 
 
-📌 Auteur : vegee valentin
+📌 Auteur : valentin vegee
